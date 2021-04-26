@@ -1,11 +1,20 @@
-# Olá, eu sou a Scarlet e seja bem vindo ao meu repositório! :D
+### Olá, eu sou a Scarlet 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ScarletAraujo)](https://github.com/ScarletAraujo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/scarletaraujo/)](https://www.linkedin.com/in/scarletaraujo/)
+#### Sou desenvolvedora Web Java Full Stack Jr em desenvolvimento
 
-### Sobre mim / About me
-Eu sou desenvolvedora Web {FullStack} Jr
+Profissional formada em Administração de Empresas, Pós Graduada em Gestão de Projetos e Certificada em Desenvolvimento Web Java Fullstack nível Junior. Possuo inglês avançado e espanhol básico.
+Nos últimos 8 anos, trabalhei em uma das maiores e melhores redes hoteleiras do mundo como Supervisora de Restaurantes, Hostess e Auxiliar de Garçom no Brasil e em Dubai. Em 2021 decidi transicionar para a área de tecnologia, participei do Programa de Formação em
+Programação da Generation Brasil e atualmente busco uma oportunidade no mercado como Desenvolvedora Junior.
 
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
-- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
+Skills: JAVA | MYSQL | SPRING | JS | HTML | CSS | ANGULAR | NODE.JS
+
+- 📫 How to reach me: scarlet.araujo@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ScarletAraujo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/scarletaraujo//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/scarletaraujo//)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ScarletAraujo&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/ScarletAraujo)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/ScarletAraujo)  
