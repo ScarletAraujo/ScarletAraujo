@@ -3,7 +3,7 @@
 #### Sou desenvolvedora Web Java Full Stack Jr em desenvolvimento
 
 Profissional formada em Administração de Empresas, Pós Graduada em Gestão de Projetos e Certificada em Desenvolvimento Web Java Fullstack nível Junior. Possuo inglês avançado e espanhol básico.
-Nos últimos 8 anos, trabalhei em uma das maiores e melhores redes hoteleiras do mundo como Supervisora de Restaurantes, Hostess e Auxiliar de Garçom no Brasil e em Dubai. Em 2021 decidi transicionar para a área de tecnologia, participei do Programa de Formação em
+Nos últimos 8 anos, trabalhei em uma das maiores e melhores redes hoteleiras do mundo como Supervisora de Restaurantes, Hostess e Auxiliar de Garçom no Brasil e em Dubai. Em 2020 decidi transicionar para a área de tecnologia, participei do Programa de Formação em
 Programação da Generation Brasil e atualmente busco uma oportunidade no mercado como Desenvolvedora Junior.
 
 Skills: JAVA | MYSQL | SPRING | JS | HTML | CSS | ANGULAR | NODE.JS
